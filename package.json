@@ -1,0 +1,27 @@
+{
+  "name": "fastifystreamhttp2",
+  "version": "1.0.0",
+  "description": "Welcome to the fastify server using stream with HTTP2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borel/fastifyStreamHttp2.git"
+  },
+  "keywords": [
+    "http2",
+    "fastify"
+  ],
+  "author": "pbb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borel/fastifyStreamHttp2/issues"
+  },
+  "homepage": "https://github.com/borel/fastifyStreamHttp2#readme",
+  "dependencies": {
+    "fastify": "^1.2.1"
+  }
+}
